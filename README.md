@@ -16,3 +16,5 @@ Data de criação: 16/03/2025
 
 
 Observações: Dos requisitos opcionais, eu escolhi realizar a criação de um proprio dataser para detecção e realizar comparação com um outro projeto de visão computacional usando o sistema do YOLO.
+
+Link para dataset ultilizado: https://drive.google.com/drive/folders/1kUjIzZZu000SFkAsYEsDbpFzp2uZeXeP?usp=sharing
